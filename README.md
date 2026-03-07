@@ -12,7 +12,9 @@ Everything saves straight to /storage/emulated/0/Download/
 
 ### How to use 
 1. In Termux run these once:
+```
       python downloader. py
+```
 
   ### Note
   if it says directory not found first mv the script to termux or enter /sdcard/Download/ ( cd /sdcard/Download/ )
